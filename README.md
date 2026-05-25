@@ -1,4 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
+# Name: NAVEEN KUMAR R
+# Register Number: 212223230139
 
 ## AIM:
 To create a warehouse application in salesforce.com
